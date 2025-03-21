@@ -6,5 +6,3 @@ A repository for managing projects efficiently.
 - 🚀 Fast and lightweight
 - ✅ Easy to use
 - 🔧 Highly customizable
-
-## Installation
